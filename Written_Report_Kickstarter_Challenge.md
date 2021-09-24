@@ -15,9 +15,9 @@ The analysis is focused in two main visualizations: Theater Outcomes by Launch D
 
 For the Theater Outcomes by Launch date a pivot table was developed considering all the Outcomes (Successful, Failed and Canceled) versus the Date Created Conversion by each month. As a filter the Parent Category was included to filter just the data related with Theater and the Years available. Finally, all the values are related with the count of the outcomes in order to list amount of successful, failed and canceled plays were completed by month. Then, a graph was develop using a line chart; since there is an study of data over a time, having a visual representation of the outcomes by launch date to understand how is the trend of the outcomes based on the launch date.
 
-The graph represent the tren from January to December considering data for 9 consecutive years, representing the trend for Canceled (blue line), Failes (orange line), successful (yellow line) over the time. 
+The graph represent the trend from January to December considering data for 9 consecutive years, having variable Canceled (blue line), Failes (orange line), Successful (yellow line) over the time. 
 
-![Outcomes Based on Launch Date]/kickstarter-analysis/Resources/Outcomes_Based_on_Launch_Date.png
+![Outcomes_Based_on_Launch_Date](Resources/Outcomes_Based_on_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -29,7 +29,7 @@ Finally, a percentage was calculate by each outcome respect the total outcomes b
 
 The line chart represent the percentage of sucessful (blue line), percentage of canceled (grey line) and percentage of failed (orange line) over 12 different ranges from Less than 1000 to Greater than 5000 dollars for collection as a goal to drive conclusions about this performance. 
 
-![Outcomes Based on Goals]!(https://github.com/mdpalaciot/kickstarter-analysis/blob/main/Resources/Outcomes_Based_on_Goals.png)
+![Outcomes Based on Goals](Resources/Outcomes_Based_on_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
