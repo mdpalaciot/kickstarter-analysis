@@ -17,7 +17,7 @@ For the Theater Outcomes by Launch date a pivot table was developed considering 
 
 The graph represent the tren from January to December considering data for 9 consecutive years, representing the trend for Canceled (blue line), Failes (orange line), successful (yellow line) over the time. 
 
-![Outcomes Based on Launch Date](C:\Users\mdpal\OneDrive\Documents\MSU\Anaysis Projects\Kickstartprojects\kickstarter-analysis\Resources\Outcomes_Based_on_Launch_Date.png)
+![Outcomes Based on Launch Date]/kickstarter-analysis/Resources/Outcomes_Based_on_Launch_Date.png
 
 ### Analysis of Outcomes Based on Goals
 
@@ -29,7 +29,7 @@ Finally, a percentage was calculate by each outcome respect the total outcomes b
 
 The line chart represent the percentage of sucessful (blue line), percentage of canceled (grey line) and percentage of failed (orange line) over 12 different ranges from Less than 1000 to Greater than 5000 dollars for collection as a goal to drive conclusions about this performance. 
 
-![Outcomes Based on Goals]!(C:\Users\mdpal\OneDrive\Documents\MSU\Anaysis Projects\Kickstartprojects\kickstarter-analysis\Resources\Outcomes_Based_on_Goals.png)
+![Outcomes Based on Goals]!(https://github.com/mdpalaciot/kickstarter-analysis/blob/main/Resources/Outcomes_Based_on_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
